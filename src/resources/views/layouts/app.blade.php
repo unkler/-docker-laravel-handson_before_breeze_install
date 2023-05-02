@@ -135,7 +135,7 @@
 
       @include('components.header')
 
-      @include('components.aside')
+     
 
       <div id="app">
         @yield('content')
